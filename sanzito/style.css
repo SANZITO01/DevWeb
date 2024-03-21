@@ -1,3 +1,16 @@
 h2{
     color:darkred;
 }
+
+.menu{
+    display: inline-block;
+    padding:10px 20px;
+    background-color:black;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+}
+.menu:houver{
+    background-color: blue;
+}
